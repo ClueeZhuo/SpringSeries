@@ -15,7 +15,7 @@ public class Application {
 	
 	@RequestMapping("/hellojava")
 	public String helloJava() {
-		return "hello, Java!";
+		return "Hello, Java!";
 	}
 
 }
